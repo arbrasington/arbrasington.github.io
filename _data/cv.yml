@@ -2,31 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alex Brasington
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th May 1997
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Mecchanical Engineering
+      institution: University of South Carolina, Columbia, SC
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation: Comprehensive Process Planning Optimization Framework for Automated Fiber Placement
+    - title: MS, Aerospace Engineering
+      institution: University of South Carolina, Columbia, SC
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Integration of Process Planning Into the Automated Fiber Placement Design for Manufacturing Cycle 
+    - title: BS, Civil Engineering
+      institution: University of South Carolina, Columbia, SC
+      year: 2019
 
 - title: Experience
   type: time_table
